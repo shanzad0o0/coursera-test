@@ -5,6 +5,9 @@ body{
 }
 
 
+section h1 {text-align: center;}
+
+
 .navbar-brand  {
     color: #fff;
     padding: 2em;
